@@ -1,0 +1,21 @@
+.hero {
+  background-image: url("/src/assets/BACKGROUND PERTAMA-01.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.foot {
+  background-image: url("/src/assets/BACKGROUND\ TERAKHIR-01.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  background-color: #f4b3cb;
+  background-image: url("/src/assets/bekgron\ tipis-01.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
