@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/delicakes/static/css/main.29f0f07b.chunk.css",
+    "main.js": "/delicakes/static/js/main.09f9d3aa.chunk.js",
+    "main.js.map": "/delicakes/static/js/main.09f9d3aa.chunk.js.map",
+    "runtime-main.js": "/delicakes/static/js/runtime-main.c8cb79a0.js",
+    "runtime-main.js.map": "/delicakes/static/js/runtime-main.c8cb79a0.js.map",
+    "static/css/2.251f8e3e.chunk.css": "/delicakes/static/css/2.251f8e3e.chunk.css",
+    "static/js/2.ff1f2a85.chunk.js": "/delicakes/static/js/2.ff1f2a85.chunk.js",
+    "static/js/2.ff1f2a85.chunk.js.map": "/delicakes/static/js/2.ff1f2a85.chunk.js.map",
+    "static/js/3.5e7d8e16.chunk.js": "/delicakes/static/js/3.5e7d8e16.chunk.js",
+    "static/js/3.5e7d8e16.chunk.js.map": "/delicakes/static/js/3.5e7d8e16.chunk.js.map",
+    "index.html": "/delicakes/index.html",
+    "static/css/2.251f8e3e.chunk.css.map": "/delicakes/static/css/2.251f8e3e.chunk.css.map",
+    "static/css/main.29f0f07b.chunk.css.map": "/delicakes/static/css/main.29f0f07b.chunk.css.map",
+    "static/js/2.ff1f2a85.chunk.js.LICENSE.txt": "/delicakes/static/js/2.ff1f2a85.chunk.js.LICENSE.txt",
+    "static/media/ABOUT-01.2cfcda41.png": "/delicakes/static/media/ABOUT-01.2cfcda41.png",
+    "static/media/App.css": "/delicakes/static/media/bekgron tipis-01.8c0fcf5a.png",
+    "static/media/CAKES-01.4d157fe8.png": "/delicakes/static/media/CAKES-01.4d157fe8.png",
+    "static/media/CUPE CAKES-01.e3f57247.png": "/delicakes/static/media/CUPE CAKES-01.e3f57247.png",
+    "static/media/DELICAKES LOGO KECIL-01.a2ba341a.png": "/delicakes/static/media/DELICAKES LOGO KECIL-01.a2ba341a.png",
+    "static/media/Foto cowo-01.4e36c8c3.png": "/delicakes/static/media/Foto cowo-01.4e36c8c3.png",
+    "static/media/ORDER-01.ba7cfe3c.png": "/delicakes/static/media/ORDER-01.ba7cfe3c.png",
+    "static/media/PASTRY-01.b96f8228.png": "/delicakes/static/media/PASTRY-01.b96f8228.png",
+    "static/media/Welcome To Delicakes-01.3dc1bd07.png": "/delicakes/static/media/Welcome To Delicakes-01.3dc1bd07.png",
+    "static/media/foto cewe.5f0142ad.png": "/delicakes/static/media/foto cewe.5f0142ad.png",
+    "static/media/kategori-01.673a10d3.png": "/delicakes/static/media/kategori-01.673a10d3.png",
+    "static/media/logo kecil di pojok kiri-01.2b9953e0.png": "/delicakes/static/media/logo kecil di pojok kiri-01.2b9953e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8cb79a0.js",
+    "static/css/2.251f8e3e.chunk.css",
+    "static/js/2.ff1f2a85.chunk.js",
+    "static/css/main.29f0f07b.chunk.css",
+    "static/js/main.09f9d3aa.chunk.js"
+  ]
+}
